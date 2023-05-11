@@ -71,7 +71,7 @@ body{
         <div class="music-player">
             <img src="/resources/img/img1.jpeg" alt="music" id="music-icon">
             <div class="info">
-                <h1>Name1 - TitleName1 </h1>
+                <h1>Name1 - TitleName12 </h1>
                 <div id="waveform"></div>
                 <div class="control-bar">
                     <img src="/resources/img/play.png" alt="play" id="playBtn1" title="Play / pause">
